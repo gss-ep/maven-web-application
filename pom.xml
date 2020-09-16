@@ -97,14 +97,14 @@
 	
 	    <repository>
 	      <id>nexus</id>
-	      <name>Mithun Technologies Releases Nexus Repository</name>
-	      <url>http://13.59.220.93:9980/mithuntechnologies/repository/wallmart-releases/</url>
+	      <name>govinda Releases Nexus Repository</name>
+	      <url>http://13.232.86.254:8081/repository/amazon-Release/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
-	      <name>Mithun Technologies Snapshot Nexus Repository </name>
-	      <url>http://13.59.220.93:9980/mithuntechnologies/repository/wallmart-snapshot/</url>
+	      <name>govinda Snapshot Nexus Repository </name>
+	      <url>http://13.232.86.254:8081/repository/Amazon-Snapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
