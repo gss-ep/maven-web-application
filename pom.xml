@@ -17,6 +17,8 @@
 	</organization>
 
 	<properties>
+		
+		<properties>
 		<jdk.version>1.8</jdk.version>
 		<spring.version>5.1.2.RELEASE</spring.version>
 		<junit.version>4.11</junit.version>
@@ -32,7 +34,8 @@
 	<maven.complier.source>1.8</maven.complier.source>
 	<maven.complier.target>1.8</maven.complier.target>
 	</properties>
-	
+	    
+	</properties>
 	<dependencies>
 		
 		<dependency>
