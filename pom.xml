@@ -26,11 +26,11 @@
 		<sonar.password>govinda</sonar.password>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 		<project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
-      <properties>
+	</properties>
+      
+	<properties>
 	<maven.complier.source>1.8</maven.complier.source>
 	<maven.complier.target>1.8</maven.complier.target>
-	</properties>
-	 
 	</properties>
 	
 	<dependencies>
